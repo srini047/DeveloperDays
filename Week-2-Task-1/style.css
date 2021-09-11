@@ -1,0 +1,28 @@
+#root {
+	width: 450px;
+	margin: auto;
+	background-color:black;
+	color:white;
+	padding-right:25px;
+  }
+  
+  
+  h1 {
+	text-align: center;
+  }
+  
+  li {
+	padding-bottom: 10px;
+  }
+  
+  i {
+	float: right;
+	color: red;
+	cursor: pointer;
+  }
+  
+  .inputBar {
+	width: 200px;
+	margin: auto;
+	position: center;
+  }
