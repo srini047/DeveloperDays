@@ -1,0 +1,15 @@
+body {
+    position: relative;
+    left: 34%;
+    margin-top: 25px;
+    color: azure;
+}
+
+label {
+    color: blue;
+    background-color: azure;
+}
+
+.button {
+    color: blanchedalmond;
+}
